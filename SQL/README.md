@@ -46,11 +46,54 @@ Resumen de la instalación.
 
 ![](image/11.png)
 
- Instalación.
+Instalación.
 
  ![](image/12.png)
 
- Instalación finalizada.
+Instalación finalizada.
 
  ![](image/13.png)
- 
+
+## Instalamos el SQL Server Magnament Studio en el servidor.
+
+![](image/14.png)
+
+![](image/15.png)
+
+Conexión desde el servidor.
+
+![](image/30.png)
+
+![](image/31.png)
+
+## Instalamos el SQL Server Magnament Studio en el cliente.
+
+![](image/20.png)
+
+![](image/21.png)
+
+![](image/22.png)
+
+![](image/23.png)
+
+Aplicamos una regla de entrada al firewall desde el programa sql.
+
+![](image/24.png)
+
+![](image/25.png)
+
+Conectamos desde el cliente al servidor por IP.
+
+![](image/26.0.png)
+
+![](image/26.png)
+
+Comprobamos la conexión.
+
+![](image/27.png)
+
+Conexión por nombre.
+
+![](image/28.png)
+
+![](image/29.png)
