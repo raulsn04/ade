@@ -96,6 +96,8 @@ Con show open tables.
 
 * Haz que uno o más de tus compañeros se conecte a tu servidor (puede que por cuestión de permisos no os podáis conectar).
 
+![](sql/19.PNG)
+
 * Comprueba quién está conectado usando el comando correspondiente (Pista: es un comando visto SHOW XYZ).
 
 
@@ -103,7 +105,11 @@ Con show open tables.
 
 * ¿Cuántas consultas se están ejecutado hasta el momento en tu servidor MYSQL? ¿Y si se trata de consultas lentas?
 
+![](sql/20.PNG)
+
 * Un estado informa  el sobre el máximo de conexiones concurrentes que se ha dado en la sesión de trabajo. ¿Cuál es?
+
+![](sql/21.PNG)
 
 
 ## 3-Variables dinámicas
