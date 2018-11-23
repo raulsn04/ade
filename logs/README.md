@@ -53,16 +53,23 @@ Es el fichero donde se guarda todo lo que se haga en MySQL, desde consultas o co
 
 ![](imagen/7.PNG)
 
-    * reiniciamos y comprobamos el fichero.
-
-![](imagen/8.PNG)    
+![](imagen/9.PNG)
 
     * Comprueba su funcionamiento haciendo que un compañero se conecte a tu servidor y ejecute varias consultas.
 
     * ¿Puede ejecutarse el cambio de forma dinámica en el servidor?
 
-
+**No, no se puede no es dinamica**
 
     * Averigua viendo el fichero "miserver.log" la hora en que se conectó tu compañero y ejecutó las consultas del apartado anterior.
 
-    * Accede al servidor a través de Workbench. ¿Qué se registra en "general_log"?¿Hay alguna diferencia respecto al cliente mysql ?
+![](imagen/10.PNG)
+
+    * Accede al servidor a través de Workbench. ¿Qué se registra en "general_log"?
+
+![](imagen/11.PNG)
+
+
+    ¿Hay alguna diferencia respecto al cliente mysql ?
+**si, muestra el contenido de las bases de datos.**
+![](imagen/12.1.PNG)
