@@ -108,3 +108,12 @@ Fórmula: valorventa=costo + costo*porgana**
 ![](imagen2/2.PNG)
 
 ![](imagen2/3.PNG)
+
+#Ejercicio 4:
+
+## Crear una tabla nueva de nombre borrados_prod, con los mismos campos que productos más un campo fecha y otro campo usuario.
+
+## A continuación crear un disparador que se active antes del delete de un producto. El disparador insertara todos los datos old del procucto a borrar en la tabla nueva. Para la fecha usamos curdate() y para el usuario user()
+
+
+![](imagen2/4.PNG)
